@@ -19,7 +19,7 @@ int main() {
 				cout << s.top().first << " ";
 				break;
 			} 
-			s.pop(); // 현재 입력받는 수보다 작은수들을 제거해주는 방법
+			s.pop(); //  현재 입력받는 수보다 작은수들을 제거해주는 방법
 		}
 
 		if (s.empty()) {
